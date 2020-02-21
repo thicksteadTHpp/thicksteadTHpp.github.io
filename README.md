@@ -12,11 +12,7 @@ again.
 
 ## License
 
-The following directories and their contents are Copyright Tom Preston-Werner.
-You may not reuse anything therein without my permission:
-
-* \_posts/
-* images/
+The css and base structure are from Tom Preston-Werner.
 
 All other directories and files are MIT Licensed. Feel free to use the HTML and
 CSS as you please. If you do use them, a link back to
